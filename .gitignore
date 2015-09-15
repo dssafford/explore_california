@@ -1,13 +1,6 @@
 
-# Comment here for .gitignore
 tempfile.txt
 tempfile3.txt
 .DS_Store
-*.zip
-*.gz
-log/*.log
-log/*.log.[0-9]
-assets/photoshop/
-!assets/videos/tour_*.mp4
-
+.DS_Store?
 
